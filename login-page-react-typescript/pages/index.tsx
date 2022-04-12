@@ -64,7 +64,6 @@ const Home: NextPage = () => {
           <span className={styles.logo}>
           {/* <h2>< AiFillLinkedin  width={72} height={16} /></h2>  */}
           < AiFillLinkedin  width={100} height={50} />
-            {/* <Image src="/vercel.svg" alt="Vercel" width={72} height={16} /> */}
           </span>
         </a>
       </footer>
