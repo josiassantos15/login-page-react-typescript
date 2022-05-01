@@ -15,8 +15,30 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
-      <Head>
+    // <>
+    // <div className="login-box">
+    //   <h2>Login</h2>
+    //   <form>
+    //     <div className="user-box">
+    //       <input type="text" name="" required= { true }/>
+    //       <label>Email</label>
+    //     </div>
+    //     <div className="user-box">
+    //       <input type="password" name="" required= { true }/>
+    //       <label>Senha</label>
+    //     </div>
+    //     <a href="#">
+    //       <span></span>
+    //       <span></span>
+    //       <span></span>
+    //       <span></span>
+    //       ENTRAR
+    //     </a>
+    //   </form>
+    // </div>
+    // </>
+    <div className="min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8"> 
+      <Head> 
         <title>Home</title>
       </Head>
 
